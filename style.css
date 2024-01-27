@@ -1,0 +1,7 @@
+/* All elements are in static position (Pani ki trh) */
+/* Position relative me hum top left right dekr apne parent se related hokr set krega */
+/* Position Absolute me hum parent ki position k according set kren gen */
+
+.pera {
+    width: 300px;
+}
